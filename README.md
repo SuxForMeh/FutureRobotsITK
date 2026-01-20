@@ -15,4 +15,4 @@
 - Virke til at hjælpe med vejledning for blinde (ligesom hunde)
 
 ### Forløblig problemstilling:
-Noget med en senser som indsamler information, som ved at måle trafik i området eller hjælpe med at styrer trafikken ligesom en skolepatrulje ville. Dette er en måde at inkorporere robotten som en hjælp ved at gøre ens liv nemmere. Dermed kan man få live data eller generalt data for måske at finde en løsning på alt den traffik som dukker op, eller for at folk kan finde en anden vej. Derudover med skolepatruljen kan den hjælpe mange om at komme over vejen i skoleområder når der er for meget traffik.
+Noget med en senser som indsamler information, som ved at måle trafik i området. Dette er en måde at inkorporere robotten som en hjælp ved at gøre ens liv nemmere. Dermed kan man få live data eller generalt data for måske at finde en løsning på alt den traffik som dukker op, eller for at folk kan finde en anden vej.
