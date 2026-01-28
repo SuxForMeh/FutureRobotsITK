@@ -21,5 +21,3 @@ Noget med en senser som indsamler information, som ved at måle trafik i område
 - Lave en miniatur city hvor vi kan simulere trafik, og have en prototype køre rundt og indsamle data.
 - Interface af fake data (fake it, till you make it)
 - Stationær sensor som opsamler data.
-  
-- 
