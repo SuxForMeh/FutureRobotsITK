@@ -16,3 +16,10 @@
 
 ### Forløblig problemstilling:
 Noget med en senser som indsamler information, som ved at måle trafik i området. Dette er en måde at inkorporere robotten som en hjælp ved at gøre ens liv nemmere. Dermed kan man få live data eller generalt data for måske at finde en løsning på alt den traffik som dukker op, eller for at folk kan finde en anden vej.
+
+### Mulige ideer
+- Lave en miniatur city hvor vi kan simulere trafik, og have en prototype køre rundt og indsamle data.
+- Interface af fake data (fake it, till you make it)
+- Stationær sensor som opsamler data.
+  
+- 
