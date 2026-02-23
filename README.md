@@ -33,3 +33,6 @@ Noget med en senser som indsamler information, som ved at måle trafik i område
 ### Hvad virker ikke?
 * GPS'en virker ikke.
 * Bil detection ikke færdfig
+
+
+https://miro.com/welcomeonboard/RlpmRGVpRTBLbkI2K0FQYklHOTBRZEdMWDNzMFFHY05xTUpBMGVYMjNzWlozQmxzc3VVYnVEOVMxNlJXQnNydFlOQU4xbGRYZU1ZY21LbHFSdkJEczhFT2FENUVmNTFnbEpYemVjSjN1Ym93N3hES1BTMDNiSDNoWkJtbzNOamlQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=6133497986
