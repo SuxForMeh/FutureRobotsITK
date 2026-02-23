@@ -32,3 +32,4 @@ Noget med en senser som indsamler information, som ved at måle trafik i område
 
 ### Hvad virker ikke?
 * GPS'en virker ikke.
+* Bil detection ikke færdfig
