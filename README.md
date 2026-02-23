@@ -25,3 +25,10 @@ Noget med en senser som indsamler information, som ved at måle trafik i område
 ### Muligt software
 - https://docs.ultralytics.com/
 - https://opencv.org/
+
+### Hvad virker?
+Raspberry pi virker
+Kamera virker 
+
+### Hvad virker ikke?
+GPS'en virker ikke.
