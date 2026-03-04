@@ -31,7 +31,7 @@ Noget med en senser som indsamler information, som ved at måle trafik i område
 * Kamera virker 
 
 ### Hvad virker ikke?
-* GPS'en virker ikke.
+* GPS'en virker ikke (men fik den til at virke en gang)
 * Bil detection ikke færdfig
 
 
