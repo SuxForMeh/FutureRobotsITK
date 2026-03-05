@@ -28,11 +28,11 @@ Noget med en senser som indsamler information, som ved at måle trafik i område
 
 ### Hvad virker?
 * Raspberry pi virker
-* Kamera virker 
+* Kamera virker
+* Bil dection 
 
 ### Hvad virker ikke?
 * GPS'en virker ikke (men fik den til at virke en gang)
-* Bil detection ikke færdfig
 
 
 https://miro.com/welcomeonboard/RlpmRGVpRTBLbkI2K0FQYklHOTBRZEdMWDNzMFFHY05xTUpBMGVYMjNzWlozQmxzc3VVYnVEOVMxNlJXQnNydFlOQU4xbGRYZU1ZY21LbHFSdkJEczhFT2FENUVmNTFnbEpYemVjSjN1Ym93N3hES1BTMDNiSDNoWkJtbzNOamlQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=6133497986
